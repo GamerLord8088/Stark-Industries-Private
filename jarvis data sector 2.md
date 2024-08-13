@@ -1,1 +1,1 @@
-last recognised word to
+12
