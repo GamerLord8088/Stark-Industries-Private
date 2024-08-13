@@ -1,1 +1,1 @@
-reset
+test for configuration for girl
