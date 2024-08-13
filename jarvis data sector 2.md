@@ -1,1 +1,1 @@
-test II configuration 3 go
+reset
