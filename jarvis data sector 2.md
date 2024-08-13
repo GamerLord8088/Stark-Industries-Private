@@ -1,1 +1,1 @@
-play The Final Countdown
+reset
