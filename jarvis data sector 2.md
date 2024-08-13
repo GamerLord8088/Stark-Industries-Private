@@ -1,1 +1,1 @@
-last recognise word
+lost recognised word to
