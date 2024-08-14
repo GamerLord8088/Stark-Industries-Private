@@ -1,1 +1,1 @@
-pause
+type worst band
