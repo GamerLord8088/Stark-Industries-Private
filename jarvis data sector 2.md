@@ -1,1 +1,1 @@
-switch the telly
+play The Final Countdown
